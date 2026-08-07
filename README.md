@@ -1,2 +1,1 @@
-this is aarushi 
-this is rithika
+this is aarushi.
